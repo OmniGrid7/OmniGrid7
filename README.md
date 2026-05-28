@@ -29,7 +29,6 @@ An anime-focused entertainment platform — a one-stop destination for anime con
 
 ---
 
-📫 Feel free to connect — always open to collaborating on interesting projects!
 
 
 ## 🌐 Socials:
@@ -49,3 +48,7 @@ An anime-focused entertainment platform — a one-stop destination for anime con
 [![](https://komarev.com/ghpvc/?username=OmniGrid7&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+📫 Feel free to connect — always open to collaborating on interesting projects!
