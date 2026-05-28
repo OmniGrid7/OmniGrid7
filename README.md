@@ -1,4 +1,35 @@
-## Hi, I'm Vishal 👋
+# 👋 Hey there, I'm Vishal
+**B.Tech in Information Technology · Builder · Learner · Anime Fan**
+
+I'm an IT undergraduate passionate about using technology to build things that actually matter — whether that's training ML models, shipping web apps, or exploring the latest in tech. When I'm not coding, you'll probably find me in an online game or deep in an anime binge.
+
+---
+
+## 🎓 Academic Background
+Currently pursuing a **B.Tech in Information Technology**. My coursework has given me a strong foundation in software development, data structures, computer networks, and systems design.
+
+---
+
+## 💡 Interests
+`Machine Learning` `Web Development` `AI & Deep Learning` `Backend Engineering` `Emerging Tech` `Open Source`
+
+I enjoy experimenting with ML algorithms, building full-stack applications, and keeping up with what's happening at the intersection of AI and software development.
+
+---
+
+## 🎮 Hobbies
+Outside of tech, I unwind with **online gaming** — it's my go-to way to recharge and have fun. I'm also an avid **anime watcher** and love discovering new series across every genre.
+
+---
+
+## 🚀 Currently Working On
+
+### ⛩️ AniVerse
+An anime-focused entertainment platform — a one-stop destination for anime content, reviews, and more. Building this from the ground up with a focus on great UX and a community-first experience.
+
+---
+
+📫 Feel free to connect — always open to collaborating on interesting projects!
 
 
 ## 🌐 Socials:
